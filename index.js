@@ -9,6 +9,7 @@ app.get("/", (req, res) => {
         { id: 2, name: "Viju milk"},
         { id: 3, name: "Bread"},
         { id: 4, name: "Semo"},
+        { id: 4, name: "Rice and stew"},
     ]);
 });
 
